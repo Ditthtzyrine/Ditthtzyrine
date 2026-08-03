@@ -1,70 +1,127 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sergei-ditthtzynsky/ditthnotdev/refs/heads/main/images.png" width="180" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/sergei-ditthtzynsky/ditthnotdev/refs/heads/main/images.png" width="180" alt="logo"/>
 </p>
 
-<h1 align="center">Hi, I'm Radithya Atha R 👋</h1>
+<h1 align="center">Radithya Atha R</h1>
 
 <p align="center">
-  <strong>Automation Bot Developer</strong><br>
-  Building scalable WhatsApp & Telegram automation systems with clean backend architecture.
+Automation Bot Developer • Backend Engineer • Open Source Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Automation+Bot+Developer;WhatsApp+%26+Telegram+Specialist;Backend+Developer;JavaScript+%7C+TypeScript+%7C+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&color=00C853&width=700&lines=Automation+Bot+Developer;WhatsApp+%26+Telegram+Developer;Backend+Architecture;JavaScript+%7C+TypeScript+%7C+Python;Always+Learning+New+Things"/>
 </p>
 
----
+<p align="center">
 
-## 🚀 About Me
+![](https://komarev.com/ghpvc/?username=ditthtzyrine&style=for-the-badge&color=00C853)
 
-I'm an automation developer focused on building reliable messaging systems for WhatsApp and Telegram.
+![](https://img.shields.io/github/followers/ditthtzyrine?style=for-the-badge)
 
-My work emphasizes:
-
-- Clean and maintainable backend architecture
-- Modular command-based systems
-- API integration
-- Automation workflows
-- High-performance bot development
-- Long-term scalability
-
----
-
-## 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vscode&perline=9"/>
+![](https://img.shields.io/github/stars/ditthtzyrine?style=for-the-badge)
 
 </p>
 
 ---
 
-## ⚡ What I Build
-
-- 🤖 Multi-feature WhatsApp Bots
-- 📨 Telegram Automation Bots
-- 🔥 REST API Integrations
-- ⚙️ Automation Systems
-- 📂 Modular Backend Projects
-- 🚀 Custom Messaging Solutions
-
----
-
-## 📈 GitHub Statistics
+# 💻 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sergei-ditthtzynsky&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergei-ditthtzynsky&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vscode,linux,mongodb,firebase&perline=6"/>
 
 </p>
 
+---
+
+# 🚀 What I Build
+
+- 🤖 WhatsApp Automation Bot
+- ✈ Telegram Automation Bot
+- ⚡ REST API Integration
+- 🧠 AI Powered Bot
+- 🔥 Backend System
+- 📦 Modular Project
+- ☁ Cloud Deployment
+- 🛠 Automation Workflow
+
+---
+
+# 🛠 Tools
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sergei-ditthtzynsky&theme=github-dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=express,npm,bash,discord,docker,vercel&perline=6"/>
 
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```txt
+✓ WhatsApp Automation
+✓ Telegram Bot Framework
+✓ Backend Development
+✓ AI Integration
+✓ Clean Architecture
+✓ Performance Optimization
+```
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 MyCode AI | AI Assistant & Automation Platform |
+| ⚡ X-CODE | Modern Developer Toolkit |
+| 📦 Telegram Framework | Modular Telegram Bot |
+| 🚀 WhatsApp Bot | Multi Feature Automation |
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ditthtzyrine/ditthtzyrine/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ditthtzyrine&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ditthtzyrine&theme=darkhub&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> *"Building automation that solves real-world problems with clean and scalable code."*
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C853,100:00897B&section=footer"/>
+
+</p>
 </p>
 
 ---
