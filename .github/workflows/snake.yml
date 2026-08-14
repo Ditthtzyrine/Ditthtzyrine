@@ -1,0 +1,38 @@
+name: Update Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ditthtzyrine
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Install generated files
+        run: |
+          cp dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
+          cp dist/github-contribution-grid-snake-dark.svg assets/github-contribution-grid-snake-dark.svg
+
+      - name: Commit generated snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contribution-grid-snake.svg assets/github-contribution-grid-snake-dark.svg
+          git diff --cached --quiet || git commit -m "chore: update contribution snake"
+          git push
