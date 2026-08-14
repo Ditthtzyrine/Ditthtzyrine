@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#09070d"/><stop offset=".5" stop-color="#170b27"/><stop offset="1" stop-color="#2b1248"/></linearGradient></defs>
+<rect x="8" y="8" width="1184" height="194" rx="16" fill="url(#g)" stroke="#4c1d95"/>
+<text x="42" y="48" fill="#c084fc" font-family="monospace" font-size="14">CURRENTLY BUILDING</text>
+<line x1="42" y1="62" x2="1158" y2="62" stroke="#3b1b5f"/>
+<g font-family="Arial" fill="#f5f3ff">
+<text x="70" y="105" font-size="17">Telegram Bot</text><text x="70" y="130" font-size="13" fill="#a1a1aa">Automation &amp; utility</text>
+<text x="350" y="105" font-size="17">Web Application</text><text x="350" y="130" font-size="13" fill="#a1a1aa">Full-stack systems</text>
+<text x="650" y="105" font-size="17">API Services</text><text x="650" y="130" font-size="13" fill="#a1a1aa">REST &amp; integrations</text>
+<text x="925" y="105" font-size="17">Developer Tools</text><text x="925" y="130" font-size="13" fill="#a1a1aa">Useful workflows</text>
+</g>
+<g fill="#8b5cf6"><circle cx="48" cy="101" r="5"/><circle cx="328" cy="101" r="5"/><circle cx="628" cy="101" r="5"/><circle cx="903" cy="101" r="5"/></g>
+</svg>
